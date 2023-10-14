@@ -1,4 +1,4 @@
-const nombre = () => {
+const Nombre = () => {
     return(
         <h1>Will</h1>
     )
@@ -6,4 +6,4 @@ const nombre = () => {
 
 
 
-export default nombre
+export default Nombre

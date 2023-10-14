@@ -1,12 +1,13 @@
 import './App.css';
-import nombre from './will.jsx'
+import Nombre from './Will.jsx'
 
 function App() {
   return (
     <div>
-      <nombre name={nombre} />
+      <Nombre  />
     </div>
   );
 }
 
 export default App;
+            
